@@ -1,0 +1,7 @@
+seaborn
+streamlit
+fastapi
+pydantic
+transformers
+unidecode
+uvicorn
